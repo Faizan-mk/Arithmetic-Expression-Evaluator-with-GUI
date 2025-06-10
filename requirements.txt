@@ -1,0 +1,6 @@
+PyQt5==5.15.9
+pygments==2.16.1
+graphviz==0.20.1
+QtAwesome==1.2.1
+qdarkstyle==3.2.0
+python-dotenv==1.0.0
